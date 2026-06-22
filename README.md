@@ -8,13 +8,7 @@ Application web de gestion de porte-monnaie électronique (Wallet) permettant de
 - Dépôt sur un wallet
 - Retrait d'un wallet avec calcul des frais (1% plafonné à 5000 CFA)
 - Affichage des transactions
-
-## Architecture
-- MVC (Model-View-Controller)
-- Repository Pattern pour les données
-- Service Pattern pour la logique métier
-- Routage personnalisé
-
+- 
 ## Technologies
 - PHP 7.4+
 - MySQL 
@@ -24,7 +18,6 @@ Application web de gestion de porte-monnaie électronique (Wallet) permettant de
 ## Installation
 
 ### Prérequis
-- Serveur web (Apache)
 - PHP 7.4+
 - MySQL 5.7+
 
