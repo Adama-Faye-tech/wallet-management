@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nom": "ADAMA",
+        "prenom": "FAYE",
+        "telephone": "777074587",
+        "code": "W12346",
+        "solde": 200000,
+        "date_creation": "2026-06-22 17:15:41"
+    },
+    {
+        "id": 2,
+        "nom": "Test",
+        "prenom": "User",
+        "telephone": "779999999",
+        "code": "CODE1",
+        "solde": 0,
+        "date_creation": "2026-06-22 17:18:15"
+    },
+    {
+        "id": 3,
+        "nom": "Test",
+        "prenom": "User",
+        "telephone": "779999998",
+        "code": "CODETEST1",
+        "solde": 0,
+        "date_creation": "2026-06-22 17:19:00"
+    },
+    {
+        "id": 4,
+        "nom": "Test",
+        "prenom": "User",
+        "telephone": "779999997",
+        "code": "CODETEST2",
+        "solde": 0,
+        "date_creation": "2026-06-22 17:19:10"
+    },
+    {
+        "id": 5,
+        "nom": "Test",
+        "prenom": "User",
+        "telephone": "779999996",
+        "code": "CODETEST3",
+        "solde": 0,
+        "date_creation": "2026-06-22 17:20:57"
+    }
+]
